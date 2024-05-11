@@ -1,0 +1,12 @@
+/myproject
+    /modularity
+        /models
+        /scripts
+    /reliability_and_robustness
+        /models
+        /scripts
+    /interpretability
+        /models
+        /scripts
+    setup.sh
+    run.sh
